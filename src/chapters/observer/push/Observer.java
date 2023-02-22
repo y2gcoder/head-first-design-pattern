@@ -1,4 +1,4 @@
-package chapters.two.push;
+package chapters.observer.push;
 
 public interface Observer {
     void update(float temp, float humidity, float pressure);

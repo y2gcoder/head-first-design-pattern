@@ -1,4 +1,4 @@
-package chapters.two.push;
+package chapters.observer.pull;
 
 public interface Subject {
     void registerObserver(Observer o);

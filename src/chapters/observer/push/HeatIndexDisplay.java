@@ -1,4 +1,4 @@
-package chapters.two.push;
+package chapters.observer.push;
 
 public class HeatIndexDisplay implements Observer, DisplayElement {
     private float temperature;

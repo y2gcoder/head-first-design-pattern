@@ -1,4 +1,4 @@
-package chapters.two.pull;
+package chapters.observer.pull;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 

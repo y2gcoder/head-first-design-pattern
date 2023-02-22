@@ -1,4 +1,4 @@
-package chapters.two.pull;
+package chapters.observer.pull;
 
 public class ForecastDisplay implements Observer, DisplayElement {
     private float currentPressure = 29.92f;

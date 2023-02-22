@@ -1,4 +1,4 @@
-package chapters.one;
+package chapters.strategy;
 
 public class FlyNoWay implements FlyBehavior {
     @Override

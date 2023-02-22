@@ -1,4 +1,4 @@
-package chapters.two.push;
+package chapters.observer.push;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package chapters.two.pull;
+package chapters.observer.push;
 
 public interface DisplayElement {
     void display();
